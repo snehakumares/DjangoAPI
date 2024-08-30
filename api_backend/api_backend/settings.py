@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#uj_4x+yi7iuocl$ch8cr!v90f1%62r%d4xe^exq++#pdxj(#1
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ''djangoapi-zyeq.onrender.com'
+    'djangoapi-zyeq.onrender.com'
 ]
 
 
