@@ -1,0 +1,9 @@
+credentials.py
+__pycache__/
+venv/
+
+# Pycharm IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
